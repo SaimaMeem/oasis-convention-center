@@ -1,0 +1,52 @@
+/* font styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope&family=Poppins:wght@300;400;500;600;700&family=Roboto:wght@500&display=swap');
+
+/* common styles */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-custom {
+    padding: 0.4rem 2rem;
+    font-weight: 600;
+    color: #3F87F5;
+    transition: all 0.4s;
+}
+
+.carousel.btn-custom:hover {
+    border: 1px solid #3F87F5;
+    background-color: #3F87F5;
+    color: #fff;
+}
+
+.carousel.btn-custom:hover a {
+    color: #fff;
+}
+
+
+/* common styles */
+
+
+/* carousel styles */
+
+.overlay:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #000;
+    opacity: 0.5;
+}
+
+
+/* carousel styles */
