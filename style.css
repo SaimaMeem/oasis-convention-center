@@ -185,6 +185,12 @@ border: none;
         border-radius: 1rem;
     }
     /* faq styles */
+    /* footer styles */
+    
+    .bg-footer {
+        background-color: #0B0D17;
+    }
+    /* footer styles */
     /* #5243C2 from figma*/
     /* #131b77  dark one*/
     /* #26A9E0  light one*/
