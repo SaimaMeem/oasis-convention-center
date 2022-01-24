@@ -30,6 +30,11 @@ body {
     color: #fff;
 }
 
+.text-color-custom {
+    color: #0A0826;
+    font-weight: 600;
+}
+
 
 /* common styles */
 
@@ -62,3 +67,9 @@ body {
 
 
 /* carousel styles */
+
+
+/* packages styles */
+
+
+/* packages styles */
